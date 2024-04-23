@@ -2,4 +2,4 @@
 lovecraft_novels/*.txt
 
 #custom aggr
-words_count.csv
+data_aggregations/*.csv
