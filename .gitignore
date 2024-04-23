@@ -1,0 +1,5 @@
+#text files
+lovecraft_novels/*.txt
+
+#custom aggr
+words_count.csv
