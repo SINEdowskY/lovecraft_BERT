@@ -7,3 +7,5 @@ data_aggregations/*.csv
 #cached
 cached*
 *_text.txt
+
+token.txt
